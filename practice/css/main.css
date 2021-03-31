@@ -1,0 +1,20 @@
+body,
+h6 {
+  margin: 0;
+}
+h1 {
+  margin-top: 0;
+}
+p:first-of-type {
+  margin-top: 0;
+}
+p:last-of-type {
+  margin-bottom: 0;
+}
+p {
+  background: orange;
+  font-size: 24px;
+}
+p {
+  background: green;
+}
